@@ -97,3 +97,4 @@ Página de séries
 Versão mobile
 
 ![Detalhes](images/DetalhesHome.png) ![Detalhes](images/DetalhesFilmes.png) ![Detalhes](images/DetalhesSéries.png)
+
