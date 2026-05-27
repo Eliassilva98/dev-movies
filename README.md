@@ -78,22 +78,22 @@ Fotos do projetoAbaixo estão algumas imagens do Dev-Movies para apresentar a in
 
 Tela inicial
 
-[Inserir imagem da home]
+![Home](images/Home.png)
 
 
 
 Página de filmes
 
-[Inserir imagem da página de filmes]
+![Filmes](images/Filmes.png)
 
 
 
 Página de séries
 
-[Inserir imagem da página de séries]
+![Séries](images/Séries.png)
 
 
 
 Versão mobile
 
-[Inserir imagem da interface no mobile]
+![Detalhes](images/DetalhesHome.png) ![Detalhes](images/DetalhesFilmes.png) ![Detalhes](images/DetalhesSéries.png)
